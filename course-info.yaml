@@ -1,0 +1,9 @@
+type: marketplace
+title: Cydeo Java practice tasks
+language: English
+programming_language: Java
+content:
+  - courseSection
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_17
